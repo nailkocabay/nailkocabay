@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Education: Marmara University, Computer Engineering  
-- 💼 Interests: Web Development, Systems Programming, Artificial Intelligence  
+- 💼 Interests: Web Development, Artificial Intelligence  
 - 🌱 Currently learning: React, Docker  
 
 ---
