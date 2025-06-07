@@ -19,6 +19,10 @@
 
 ## 👨‍💻 About Me
 
+- 🎓 I'm a 3rd-year Computer Engineering student at Marmara University, looking for a mandatory internship opportunity.  
+- 💻 Passionate about Software Development and Data Analysis, always eager to learn and apply new technologies.  
+- 🚀 I enjoy solving problems, learning fast, and contributing to real-world projects in dynamic team environments.  
+
 - 🎓 Education: Marmara University, Computer Engineering  
 - 💼 Interests: Web Development, Artificial Intelligence  
 - 🌱 Currently learning: React, Docker  
