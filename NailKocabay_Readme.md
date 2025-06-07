@@ -1,10 +1,10 @@
-<!-- Profil Başlığı -->
-<h1 align="center">Merhaba 👋, Ben Nail Kocabay</h1>
-<h3 align="center">[Kısa bir kişisel tanıtım: örn. Bilgisayar Mühendisliği Öğrencisi, Full-Stack Developer]</h3>
+<!-- Profile Header -->
+<h1 align="center">Hello 👋, I'm Nail Kocabay</h1>
+<h3 align="center">Computer Engineering Student, Front-End Developer</h3>
 
-<!-- Profil Fotoğrafı ve Sosyal Medya -->
+<!-- Profile Picture and Social Media -->
 <p align="center">
-  <img src="https://github.com/nailkocabay.png" width="150" alt="nailkocabay GitHub Profil Fotoğrafı" style="border-radius: 50%;" />
+  <img src="https://github.com/nailkocabay.png" width="150" alt="nailkocabay GitHub Profile Picture" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
@@ -21,16 +21,15 @@
 
 ---
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 About Me
 
-- 🎓 Eğitim: Marmara Üniversitesi, Bilgisayar Mühendisliği
-- 💼 İlgi Alanlarım: Web Geliştirme, Sistem Programlama, Yapay Zeka  
-- 🌱 Şu an öğreniyorum: React, Docker  
-
+- 🎓 Education: Marmara University, Computer Engineering  
+- 💼 Interests: Web Development, Systems Programming, Artificial Intelligence  
+- 🌱 Currently learning: React, Docker  
 
 ---
 
-## 🚀 Kullandığım Teknolojiler
+## 🚀 Technologies I Use
 
 ### 🧠 Backend
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -49,10 +48,10 @@
 
 ---
 
-## 📫 Bana Ulaşın
+## 📫 Contact Me
 
 - E-mail: [nailkocabay0@gmail.com]  
 - LinkedIn: [linkedin.com/in/nail-kocabay]  
-- Kişisel Web Sayfam: [https://nailkocabay.com.tr]
+- Personal Website: [https://nailkocabay.com.tr]
 
 ---
