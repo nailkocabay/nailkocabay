@@ -10,7 +10,7 @@
   <a href="mailto:nailkocabay0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nailkocabay.com.tr">
+  <a href="https://nailkocabay.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
