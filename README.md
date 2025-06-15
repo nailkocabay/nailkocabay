@@ -52,4 +52,4 @@
 
 - E-mail: nailkocabay0@gmail.com  
 - LinkedIn: [linkedin.com/in/nail-kocabay](https://www.linkedin.com/in/nail-kocabay/)  
-- Personal Website: https://nailkocabay.com.tr
+- Personal Website: www.nailkocabay.com
