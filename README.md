@@ -20,14 +20,14 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a 4th-year Computer Engineering student at Marmara University.
-- 💼 Currently seeking a **mandatory internship (2026)** and **job opportunities**. 
+- 💼 Currently seeking a **mandatory internship** and **job opportunities**. 
 - 💻 Focused on **Artificial Intelligence Systems, Backend Development and Data Analysis**.
 - 🤖 I build systems that analyze real-world data and detect anomalies in complex environments.
 - 🚀 I enjoy solving problems, learning fast, and contributing to real-world projects in dynamic team environments.  
 
 - 🎓 Education: Marmara University, Computer Engineering  
-- 💼 Interests: Web Development, Artificial Intelligence  
-- 🌱 Currently learning: React, Docker  
+- 💼 Interests: Artificial Intelligence, Web Development  
+- 🌱 Currently learning: Advanced backend development, containerization (Docker), and real-time data processing systems 
 
 ---
 
